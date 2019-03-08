@@ -1,0 +1,18 @@
+{
+  "name": "eth-transaction-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "decode.js",
+  "dependencies": {
+    "ethereum-input-data-decoder": "^0.1.1",
+    "fs": "0.0.1-security",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -2,9 +2,8 @@
 
 ### Installation
 ```bashp
-git clone https://github.com/pathornteng/document-signing
-cd document-signing
+git clone https://github.com/pathornteng/eth-transaction-crawler
+cd eth-transaction-crawler
 npm install
-vi config.js
-npm start
+node crawler
 ```
